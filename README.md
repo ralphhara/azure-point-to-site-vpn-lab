@@ -8,7 +8,7 @@ The lab was designed as a hands-on Azure networking exercise to explore VPN Gate
 
 ## Architecture
 
-![Azure Point-to-Site VPN Architecture](architecture/azure-p2s-architecture.png)
+![Azure Point-to-Site VPN Architecture](architecture/Azure-P2S.png)
 
 ### Network Design
 
